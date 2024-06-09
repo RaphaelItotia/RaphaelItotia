@@ -8,6 +8,7 @@ I'm most proficient using the following languages and technologies:
   - Advanced Excel                            
   - SQL                                       
   - Python
+  - Machine Learning
   - Power BI
   - Looker Studio
 
