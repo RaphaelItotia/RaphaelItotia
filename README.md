@@ -8,7 +8,6 @@ I'm most proficient using the following languages and technologies:
   - Advanced Excel                            
   - SQL                                       
   - Python
-  - R
   - Power BI
   - Looker Studio
 
