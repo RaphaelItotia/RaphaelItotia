@@ -10,6 +10,6 @@ I'm most proficient using the following languages and technologies:
   - Python
   - Machine Learning
   - Power BI
-  - Looker Studio
+  
 
 I'm open to collaborating on projects. Let's create something great together! Feel free to fork any of my projects and contribute your expertise. Your input can include fixing bugs, adding new features, or enhancing documentation. 
