@@ -36,3 +36,7 @@ Let’s turn **data into impact**.
 ## Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelItotia&layout=compact&theme=dark)](https://github.com/RaphaelItotia)
+
+## Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaphaelItotia&theme=dark)](https://git.io/streak-stats)
