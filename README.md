@@ -1,15 +1,20 @@
-## Hi there 👋
+**Hi there, I'm Raphael Itotia — a Data Analyst integrating analytics, computer applications, and AI solutions to drive informed decisions.**
 
-I'm a Data Analyst who possesses a solid foundation in data analysis methodologies and tools. This allows me to proficiently gather, clean, and analyze data to derive meaningful insights. My expertise includes data visualization techniques, enabling me to present findings in a visually appealing, easy to navigate, and comprehensible manner. My strong analytical skills empower me to identify trends, patterns, and outliers within datasets, contributing to informed decision-making processes. Additionally, my aptitude for problem-solving equips me to tackle complex data challenges efficiently, while my eagerness to learn and adapt ensures continuous growth and enhancement of my capabilities in the dynamic field of data analysis.
+I specialize in transforming raw data into meaningful insights through structured analysis, compelling visualizations, and AI-enhanced techniques. With a solid foundation in data analysis methodologies, I’m skilled at gathering, cleaning, and interpreting data to uncover trends, detect anomalies, and support strategic outcomes.
 
+My expertise spans:
 
-I'm most proficient using the following languages and technologies:
+- `Advanced Excel`
 
-  - Advanced Excel                            
-  - SQL                                       
-  - Python
-  - Machine Learning
-  - Power BI
-  
+- `SQL`
 
-I'm open to collaborating on projects. Let's create something great together! Feel free to fork any of my projects and contribute your expertise. Your input can include fixing bugs, adding new features, or enhancing documentation. 
+- `Python`
+
+- `Power BI`
+
+- `Machine Learning`
+
+I take pride in presenting data in a clear and actionable format, ensuring that stakeholders can navigate insights with ease. I'm also adaptable and continuously learning, staying at the forefront of innovation in data and technology.
+
+Open to Collaboration
+I’m always open to meaningful collaborations. Feel free to fork any of my projects—whether it's fixing bugs, introducing new features, or enhancing documentation. Let’s build impactful solutions together.
