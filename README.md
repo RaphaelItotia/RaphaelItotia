@@ -17,8 +17,7 @@ With a solid foundation in **data analytics**, **computer applications**, and **
 ### **What I Do**
 - Turn raw data into meaningful insights  
 - Build dashboards and reports for business decision-making  
-- Apply AI tools and models for smarter automation  
-- Create user-friendly computer application solutions  
+- Apply AI tools and for smarter automation  
 
 ---
 
