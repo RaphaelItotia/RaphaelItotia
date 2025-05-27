@@ -1,20 +1,31 @@
-**Hi there, I'm Raphael Itotia — a Data Analyst integrating analytics, computer applications, and AI solutions to drive informed decisions.**
+## Hi there, I'm Raphael Itotia — a Data Analyst passionate about transforming data into action.
 
-I specialize in transforming raw data into meaningful insights through structured analysis, compelling visualizations, and AI-enhanced techniques. With a solid foundation in data analysis methodologies, I’m skilled at gathering, cleaning, and interpreting data to uncover trends, detect anomalies, and support strategic outcomes.
+With a solid foundation in **data analytics**, **computer applications**, and **AI-powered solutions**, I help organizations uncover insights and solve complex problems through data. I specialize in cleaning, analyzing, and visualizing data to tell compelling, data-driven stories that drive decision-making.
 
-My expertise spans:
+---
 
-- `Advanced Excel`
+### **Core Tools & Technologies**
 
-- `SQL`
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- `Python`
+---
 
-- `Power BI`
+### **What I Do**
+- Turn raw data into meaningful insights  
+- Build dashboards and reports for business decision-making  
+- Apply AI tools and models for smarter automation  
+- Create user-friendly computer application solutions  
 
-- `Machine Learning`
+---
 
-I take pride in presenting data in a clear and actionable format, ensuring that stakeholders can navigate insights with ease. I'm also adaptable and continuously learning, staying at the forefront of innovation in data and technology.
+### **Let's Collaborate**
+I'm always open to building something impactful together.  
+Feel free to fork my projects—your contributions through **bug fixes**, **new features**, or **documentation improvements** are welcome.  
+Let’s turn **data into impact**.
 
-Open to Collaboration
-I’m always open to meaningful collaborations. Feel free to fork any of my projects—whether it's fixing bugs, introducing new features, or enhancing documentation. Let’s build impactful solutions together.
+[Visit My Portfolio](https://raphaelitotia.vercel.app)
+
