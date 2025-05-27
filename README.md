@@ -32,9 +32,9 @@ Let’s turn **data into impact**.
 
 [![RaphaelItotia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelItotia&show_icons=true&theme=dark)](https://github.com/RaphaelItotia)
 
-## Most used languages
+<!-- ## Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelItotia&layout=compact&theme=dark)](https://github.com/RaphaelItotia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelItotia&layout=compact&theme=dark)](https://github.com/RaphaelItotia) -->
 
 ## Streaks
 
