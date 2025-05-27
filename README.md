@@ -29,3 +29,6 @@ Let’s turn **data into impact**.
 
 [Visit My Portfolio](https://raphaelitotia.vercel.app)
 
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelItotia&layout=compact&theme=dark)](https://github.com/RaphaelItotia)
